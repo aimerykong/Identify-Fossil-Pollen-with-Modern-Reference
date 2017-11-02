@@ -3,6 +3,8 @@
 
 ![alt text](http://www.ics.uci.edu/~skong2/img/patchMatch.jpg "matching")
 
+![alt text](https://github.com/aimerykong/Identify-Fossil-Pollen-with-Modern-Reference/blob/master/accuracy_vs_confidence.jpg)
+
 
 The system learns discriminative patches from modern reference pollen specimen, and use the patches to match fossilized grains for identification.
 
