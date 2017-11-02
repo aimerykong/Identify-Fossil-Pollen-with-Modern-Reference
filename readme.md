@@ -12,6 +12,7 @@ The system learns discriminative patches from modern reference pollen specimen, 
 Download data and models at [google drive](https://drive.google.com/drive/folders/1NBNUAlZ5t4KdXuyRpr2YNilrJcETg8FV?usp=sharing) (permission required).
 
 
+For myself -- this project is in local machine capricorn ~/PollenProject/fossilPollen/
 
 Shu Kong @ UCI
 11/02/2017
