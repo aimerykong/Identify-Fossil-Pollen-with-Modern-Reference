@@ -1,6 +1,6 @@
 # Matching Patches for Identifying Fossil Pollen with Modern Reference
 
-[Project page](http://www.ics.uci.edu/~fowlkes/bioshape/index.html)
+Please visit [project page](http://www.ics.uci.edu/~fowlkes/bioshape/index.html) for more relevant projects.
 
 ![alt text](http://www.ics.uci.edu/~skong2/img/patchMatch.jpg "matching")
 
